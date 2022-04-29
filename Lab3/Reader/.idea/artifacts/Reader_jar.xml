@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Reader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Reader_jar</output-path>
+    <root id="archive" name="Reader.jar">
+      <element id="module-output" name="Reader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Pipeline2Interfaces-main/out/artifacts/Pipeline2Interfaces_main_jar/Pipeline2Interfaces-main.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ConfigSupport/out/artifacts/ConfigSupport_jar/ConfigSupport.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

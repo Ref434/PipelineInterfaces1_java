@@ -1,0 +1,10 @@
+INPUT:in.txt
+OUTPUT:out.txt
+WRITER_NAME:com.company.Writer
+WRITER_CONFIG:./configs/mycfg/writerCfg.txt
+READER_NAME:com.company.Reader
+READER_CONFIG:./configs/mycfg/readerCfg.txt
+EXECUTORS_CONFIGS:./configs/other_cfg/lzw_executor_encode_config.txt
+EXECUTORS_NAME:LZW_Executor
+
+ORDER : com.company.Reader -LZW_Executor-LZW_Writer //DFGDFG

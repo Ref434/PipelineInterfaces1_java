@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ConfigSupport1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ConfigSupport/out/artifacts/ConfigSupport_jar/ConfigSupport.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
